@@ -18,5 +18,7 @@
     "next": "^10.0.3",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
-  }
+  },
+  "repository": "https://github.com/tfitzke/my-egghead-app.git",
+  "author": "Till Fitzke <till@fitzke.net>"
 }
