@@ -4,7 +4,8 @@ const AboutPage = () => {
     return (
         <>
             <h1>This is our about page</h1>
-            <Link href='/'>Go to back home</Link>
+            <Link href='/'>Go back home</Link>
+            <h2>New entry</h2>
         </>
     )
 }
